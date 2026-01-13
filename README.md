@@ -48,8 +48,3 @@ Here are some projects I’ve built — click to explore!
 - 💬 Always happy to chat about code and open source!
 
 ---
-
-## 📊 GitHub Stats
-
-<!-- GitHub Readme Stats can go here (optional) -->
-<!-- Example: https://github-readme-stats.vercel.app/api?username=neel-ofar&show_icons=true -->
