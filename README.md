@@ -19,7 +19,7 @@ MS Excel | PowerPoint | Word | JIRA | Streamlit | ChatGPT | HuggingFace | GitHub
 Python (AI-assisted) | SQL (basic) | Machine Learning | NLP | LLMs | ETL Techniques (basic)
 
 🌱 Currently exploring:
-LLM Fine-Tuning | Vector Search | Scalable APIs | Full-Stack Deployment
+LLM Fine-Tuning | Vector Search | Scalable APIs |
 
 ---
 
