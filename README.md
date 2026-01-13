@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Neel Ofar
 
-### 🚀 Full-Stack & AI/ML Enthusiast | Problem Solver | Open-Source Contributor
+### 🚀 AI/ML Enthusiast | Problem Solver | Open-Source Contributor
 
-I build **intelligent applications**, **computer vision systems**, and **use NLP/LLMs** to solve real-world problems. I love learning new tech and sharing my work with the community!
+I build **intelligent applications**, **computer vision systems**, and **use NLP/LLMs/RAG pipelines** to solve real-world problems. I love learning new tech and sharing my work with the community!
 
 🔭 Currently working on open-source tools for **summarization**, **OCR & vision**, and **RAG (Retrieval-Augmented Generation)** workflows.
 
@@ -13,7 +13,10 @@ I build **intelligent applications**, **computer vision systems**, and **use NLP
 ## 🧠 What I’m Good At
 
 **Languages & Tools:**
-Python | JavaScript | Flask | Django | OpenCV | LLMs | RAG | Git
+MS Excel | PowerPoint | Word | JIRA | Streamlit | ChatGPT | HuggingFace | GitHub | Docker (basic) | APIs | Git | Generative AI Tools | PaaS  (Deployment Platforms)
+
+**Technical Skills:**
+Python (AI-assisted) | SQL (basic) | Machine Learning | NLP | LLMs | ETL Techniques (basic)
 
 🌱 Currently exploring:
 LLM Fine-Tuning | Vector Search | Scalable APIs | Full-Stack Deployment
@@ -41,8 +44,7 @@ You can **pin** your favorites on your profile for quick access!
 ---
 
 ## 📫 How to Reach Me
-
-- 📧 Email: *(your email if you want)*
+- 📧 Email: *skneeluneelofar@gmail.com*
 - 🔗 LinkedIn: https://www.linkedin.com/in/shaikneelofar-cse
 - 💬 Always happy to chat about code and open source!
 
