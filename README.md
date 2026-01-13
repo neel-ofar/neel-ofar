@@ -39,7 +39,6 @@ Here are some projects I’ve built — click to explore!
 | **PEOPLE-COUNTING-using-openCV** | People counting tool using CV & Python. |
 | **django-dependent-list** | Django utility for dependent dropdown lists. |
 
-You can **pin** your favorites on your profile for quick access!
 
 ---
 
